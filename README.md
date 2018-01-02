@@ -8,7 +8,7 @@ An Angular 5 Sample Project to Implement CRUD Operations - Insert Update and Del
  
  # Step By Step Explanation
  
- Video Tutorial : https://youtu.be/GEdxydnpNFs
+ Video Tutorial : https://youtu.be/GEdxydnpNFs  <br/>
  Text Article on Dotnet Mob : https://goo.gl/D6vFDg
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=GEdxydnpNFs
