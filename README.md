@@ -13,7 +13,7 @@ An Angular 5 Sample Project to Implement CRUD Operations - Insert Update and Del
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=GEdxydnpNFs
 " target="_blank"><img src="http://img.youtube.com/vi/GEdxydnpNFs/0.jpg" 
-alt="Video Tutorial for Angular 5 CRUD Using Firebase" width="240" height="180" border="10" /></a>
+alt="Video Tutorial for Angular 5 CRUD Using Firebase" width="500" height="400" border="10" /></a>
 
 
 # All Video Tutorial Series
