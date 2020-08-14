@@ -1,36 +1,44 @@
 # Angular 5 CRUD Using Firebase
 An Angular 5 Sample Project to Implement CRUD Operations - Insert Update and Delete Using Firebase Project.
 
-###### Before Running this Project
- 1. Install npm packages using 'npm install' command.
- 2. Configure firebase project with your gmail account.
+## Get the Code
+
+```
+$ git clone https://github.com/CodAffection/Angular-5-CRUD-With-Firebase.git
+$ cd angular5firebasecrud
+$ npm install
+//run the app
+$ ng serve
+//update firebase config with yours
+```
+
+ ## How it works ?
  
+ :scroll: Article on this topic  
+ Url : https://goo.gl/BYUFM9
  
- # Step By Step Explanation
+ :tv: Video tutorial on this same topic  
+ Url : https://youtu.be/GEdxydnpNFs
  
- Video Tutorial : https://youtu.be/GEdxydnpNFs  <br/>
- Text Article on Dotnet Mob : https://goo.gl/BYUFM9
- 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=GEdxydnpNFs
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GEdxydnpNFs
 " target="_blank"><img src="http://img.youtube.com/vi/GEdxydnpNFs/0.jpg" 
 alt="Video Tutorial for Angular 5 CRUD Using Firebase" width="500" height="400" border="10" /></a>
 
 
-# All Video Tutorial Series
-| Series        | Video PlayList          |
-| ------------- |:-------------:|
-| Angular 7|https://goo.gl/vN9LFd  |
-| Asp.Net MVC|https://goo.gl/gvjUJ7  |
-| Asp.Net Core|https://goo.gl/scJc4f  |
-| Node JS|https://goo.gl/viJcFs  |
-| Web API|https://goo.gl/itVayJ  |
-| Angular Material|https://goo.gl/TbDQnT  |
-| MEAN Stack|https://goo.gl/YJPPAH  |
-| C# Tutorial|https://goo.gl/s1zJxo  |
-| Asp.Net WebForm|https://goo.gl/GXC2aJ  |
-| Angular 5|https://goo.gl/ahk39S  |
-| Angular 4|https://goo.gl/Ha71kq  |
-| C# WinForm|https://goo.gl/vHS9Hd  |
-| MS SQL|https://goo.gl/MLYS9e  |
-| Crystal Report|https://goo.gl/5Vou7t  |
-| CG Exercises in C Program|https://goo.gl/qEWJCs  |
+| :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
+|--------------------------:|:---------------------|---|---------------------:|:-------------------------------------|
+| Angular                   |http://bit.ly/2KQN9xF |   |Paypal                | https://goo.gl/bPcyXW                |
+| Asp.Net Core              |http://bit.ly/30fPDMg |   |Amazon   Affiliate    | https://geni.us/JDzpE                |
+| React                     |http://bit.ly/325temF |   |
+| Python                    |http://bit.ly/2ws4utg |   | :point_right:        | Follow Us                            |
+| Node.js                   |https://goo.gl/viJcFs |   |Website               |http://www.codaffection.com          |
+| Asp.Net MVC               |https://goo.gl/gvjUJ7 |   |YouTube               |https://www.youtube.com/codaffection  |
+| Flutter                   |https://bit.ly/3ggmmJz|   |Facebook              |https://www.facebook.com/codaffection |
+| Web API                   |https://goo.gl/itVayJ |   |Twitter               |https://twitter.com/CodAffection      |
+| MEAN Stack                |https://goo.gl/YJPPAH |   |
+| C# Tutorial               |https://goo.gl/s1zJxo |   |
+| Asp.Net WebForm           |https://goo.gl/GXC2aJ |   |
+| C# WinForm                |https://goo.gl/vHS9Hd |   |
+| MS SQL                    |https://goo.gl/MLYS9e |   |
+| Crystal Report            |https://goo.gl/5Vou7t |   |
+| CG Exercises in C Program |https://goo.gl/qEWJCs |   |
